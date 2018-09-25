@@ -17,8 +17,8 @@ print (cap)
 
 #print (cv2.CAP_PROP_FRAME_WIDTH)
 #print (cv2.CAP_PROP_FRAME_HEIGHT)
-cap.set(cv2.CAP_PROP_FRAME_WIDTH,1280)
-cap.set(cv2.CAP_PROP_FRAME_HEIGHT,960)
+#cap.set(cv2.CAP_PROP_FRAME_WIDTH,1280)
+#cap.set(cv2.CAP_PROP_FRAME_HEIGHT,960)
 #잘 열렸는지 확인
 if cap.isOpened() == False:
     print ('Can not open the video ')

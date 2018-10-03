@@ -2,6 +2,56 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de9d8624-f223-4c88-9699-fe9bbc0641bc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leftear/0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leftear/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leftear/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leftear/11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leftear/12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leftear/13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leftear/14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leftear/15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leftear/16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leftear/17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leftear/18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leftear/19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leftear/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leftear/20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leftear/21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leftear/22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leftear/23.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leftear/24.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leftear/25.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leftear/26.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leftear/27.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leftear/28.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leftear/29.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leftear/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leftear/30.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leftear/31.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leftear/32.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leftear/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leftear/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leftear/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leftear/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leftear/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leftear/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rightear/0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rightear/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rightear/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rightear/11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rightear/12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rightear/13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rightear/14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rightear/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rightear/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rightear/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rightear/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rightear/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rightear/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rightear/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rightear/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprite_with_face_detect.avi" beforeDir="false" afterPath="$PROJECT_DIR$/sprite_with_face_detect.avi" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testavi.py" beforeDir="false" afterPath="$PROJECT_DIR$/testavi.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,41 +64,51 @@
     <session id="755533044">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="1" />
+          <entry key="py" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="1" />
+          <entry key="Python" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="3" />
+          <entry key="py" value="210" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="3" />
+          <entry key="Python" value="210" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testavi.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+            <state relative-caret-position="1200">
+              <caret line="81" column="40" selection-end-line="115" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/download.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="311">
+              <caret line="91" column="21" selection-start-line="91" selection-start-column="21" selection-end-line="91" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -62,6 +122,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/testavi.py" />
+        <option value="$PROJECT_DIR$/download.py" />
       </list>
     </option>
   </component>
@@ -72,7 +133,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="432" />
+    <option name="x" value="429" />
     <option name="y" value="23" />
     <option name="width" value="1248" />
     <option name="height" value="947" />
@@ -134,9 +195,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="432" y="23" width="1248" height="947" extended-state="0" />
+    <frame x="429" y="23" width="1248" height="947" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2106136" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2238806" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -150,7 +212,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32932693" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32932693" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -170,8 +232,15 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/testavi.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+        <state relative-caret-position="1200">
+          <caret line="81" column="40" selection-end-line="115" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/download.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="91" column="21" selection-start-line="91" selection-start-column="21" selection-end-line="91" selection-end-column="21" />
         </state>
       </provider>
     </entry>

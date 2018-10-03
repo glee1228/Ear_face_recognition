@@ -17,8 +17,8 @@ print (cap)
 
 #print (cv2.CAP_PROP_FRAME_WIDTH)
 #print (cv2.CAP_PROP_FRAME_HEIGHT)
-#cap.set(cv2.CAP_PROP_FRAME_WIDTH,1280)
-#cap.set(cv2.CAP_PROP_FRAME_HEIGHT,960)
+cap.set(cv2.CAP_PROP_FRAME_WIDTH,1280)
+cap.set(cv2.CAP_PROP_FRAME_HEIGHT,720)
 #잘 열렸는지 확인
 if cap.isOpened() == False:
     print ('Can not open the video ')
@@ -78,16 +78,16 @@ while(True):
     right_ear = right_ear_cascade.detectMultiScale(grayframe, 1.3, 5)
 
     for (x, y, w, h) in left_ear:
-        l_ear_path="./leftear/"+str(l_ear_num)+".jpg"
-        cv2.rectangle(frame, (x-3, y-3), (x + w+3, y + h+5), (0, 255, 0), 1)
-        crop_left_ear = frame[y-3:y + h+5, x-3:x + w+3]
+        l_ear_path="./leftear/%04d.jpg"%l_ear_num
+        cv2.rectangle(frame, (x-10, y-7), (x + w+13, y + h+7), (0, 255, 0), 1)
+        crop_left_ear = frame[y-5:y+h+5, x-5:x + w+11]
         cv2.imwrite(l_ear_path, crop_left_ear)
         l_ear_num+=1
 
     for (x, y, w, h) in right_ear:
-        r_ear_path = "./rightear/" + str(r_ear_num) + ".jpg"
-        cv2.rectangle(frame, (x-3, y-3), (x + w+3, y + h+5), (255, 0, 0), 1)
-        crop_right_ear = frame[y-3:y + h+5, x-3:x + w+3]
+        r_ear_path="./rightear/%04d.jpg"%r_ear_num
+        cv2.rectangle(frame, (x-10, y-7), (x + w+13, y + h+7), (255, 0, 0), 1)
+        crop_right_ear = frame[y-5:y + h+5, x-5:x + w+11]
         cv2.imwrite(r_ear_path, crop_right_ear)
         r_ear_num += 1
     #원본 이미지에 얼굴 인식된 부분 표시

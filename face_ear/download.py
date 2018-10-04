@@ -7,7 +7,7 @@ import numpy as np
 left_ear_cascade = cv2.CascadeClassifier('./haarcascades/haarcascade_mcs_leftear.xml')
 right_ear_cascade = cv2.CascadeClassifier('./haarcascades/haarcascade_mcs_rightear.xml')
 # 동영상 파일 열기
-cap = cv2.VideoCapture(0)
+cap = cv2.VideoCapture(1)
 if left_ear_cascade.empty():
   raise IOError('Unable to load the left ear cascade classifier xml file')
 

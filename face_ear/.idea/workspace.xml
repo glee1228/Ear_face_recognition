@@ -3,56 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="de9d8624-f223-4c88-9699-fe9bbc0641bc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leftear/0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leftear/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leftear/10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leftear/11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leftear/12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leftear/13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leftear/14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leftear/15.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leftear/16.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leftear/17.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leftear/18.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leftear/19.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leftear/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leftear/20.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leftear/21.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leftear/22.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leftear/23.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leftear/24.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leftear/25.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leftear/26.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leftear/27.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leftear/28.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leftear/29.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leftear/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leftear/30.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leftear/31.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leftear/32.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leftear/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leftear/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leftear/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leftear/7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leftear/8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leftear/9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rightear/0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rightear/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rightear/10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rightear/11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rightear/12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rightear/13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rightear/14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rightear/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rightear/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rightear/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rightear/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rightear/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rightear/7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rightear/8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rightear/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/download.py" beforeDir="false" afterPath="$PROJECT_DIR$/download.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sprite_with_face_detect.avi" beforeDir="false" afterPath="$PROJECT_DIR$/sprite_with_face_detect.avi" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testavi.py" beforeDir="false" afterPath="$PROJECT_DIR$/testavi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/upscaleavi.py" beforeDir="false" afterPath="$PROJECT_DIR$/upscaleavi.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,31 +17,31 @@
     <session id="755533044">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="2" />
-          <entry key="project.open.time.5" value="2" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.open.time.5" value="3" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="2" />
+          <entry key="py" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="2" />
+          <entry key="Python" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="210" />
+          <entry key="py" value="464" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="210" />
+          <entry key="Python" value="464" />
         </counts>
       </usages-collector>
     </session>
@@ -104,11 +57,41 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/download.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="311">
-              <caret line="91" column="21" selection-start-line="91" selection-start-column="21" selection-end-line="91" selection-end-column="21" />
+            <state relative-caret-position="120">
+              <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/upscaleavi.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="14" column="29" selection-end-line="115" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yolomaker.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="124" column="23" selection-start-line="124" selection-start-column="23" selection-end-line="124" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pythonWand.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -123,6 +106,9 @@
       <list>
         <option value="$PROJECT_DIR$/testavi.py" />
         <option value="$PROJECT_DIR$/download.py" />
+        <option value="$PROJECT_DIR$/upscaleavi.py" />
+        <option value="$PROJECT_DIR$/yolomaker.py" />
+        <option value="$PROJECT_DIR$/pythonWand.py" />
       </list>
     </option>
   </component>
@@ -198,7 +184,7 @@
     <frame x="429" y="23" width="1248" height="947" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2238806" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22719735" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -239,8 +225,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/download.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="91" column="21" selection-start-line="91" selection-start-column="21" selection-end-line="91" selection-end-column="21" />
+        <state relative-caret-position="120">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upscaleavi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="14" column="29" selection-end-line="115" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yolomaker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="124" column="23" selection-start-line="124" selection-start-column="23" selection-end-line="124" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonWand.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

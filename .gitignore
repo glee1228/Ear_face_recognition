@@ -1,4 +1,5 @@
 face_ear/ear_feature_extract/image/
+face_ear/ear_feature_extract/feature_points/
 .DS_Store*
 ehthumbs.db
 Icon?

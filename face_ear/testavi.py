@@ -8,6 +8,7 @@ left_ear_cascade = cv2.CascadeClassifier('./haarcascades/haarcascade_mcs_leftear
 right_ear_cascade = cv2.CascadeClassifier('./haarcascades/haarcascade_mcs_rightear.xml')
 # 동영상 파일 열기
 cap = cv2.VideoCapture(0)
+print(type(cap))
 if left_ear_cascade.empty():
   raise IOError('Unable to load the left ear cascade classifier xml file')
 

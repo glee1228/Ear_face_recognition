@@ -257,9 +257,9 @@ def extract_feature(path,label,T):  # 이미지 경로 : path / 레이블 : labe
 def main() :
     img_num = 35
     label = 3
-    T = 10 # Umax와 Lmax에서 T만큼 떨어진 외곽선 Ulb,Urb,Llb를 정하는 임의의 수
-    for i in range(0,img_num+1):
-        image_path = "./image/%04d.jpg"%i
+    T = 20 # Umax와 Lmax에서 T만큼 떨어진 외곽선 Ulb,Urb,Llb를 정하는 임의의 수
+    for i in range(3,img_num+1):
+        image_path = "./image3/%04d.jpg"%i
         print(image_path)
         FV=extract_feature(image_path,label,T)
         feature = ','.join(str(v) for v in FV)
